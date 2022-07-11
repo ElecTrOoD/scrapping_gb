@@ -1,0 +1,5142 @@
+[
+    {
+        "city": "Йошкар-Ола",
+        "currency": "руб",
+        "employer": "ЭкспрессДеньги",
+        "link": "https://spb.hh.ru/vacancy/67618826?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": 80000,
+        "salary_min": 50000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "JetLend",
+        "link": "https://spb.hh.ru/vacancy/67577937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer (Senior/Remote)",
+        "salary_max": 300000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Ленинский проспект и еще 1 ",
+        "currency": "руб",
+        "employer": "ИП Шамсуллин Рустам Радикович",
+        "link": "https://spb.hh.ru/vacancy/67551709?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend developer (Python, PostgreSQL)",
+        "salary_max": 350000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "WebMasters Russia",
+        "link": "https://spb.hh.ru/vacancy/67535960?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python developer (blockchain)",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская",
+        "currency": null,
+        "employer": "ООО HeadHunter::Backend",
+        "link": "https://spb.hh.ru/vacancy/66192664?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Java developer (команда Поиск)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская",
+        "currency": null,
+        "employer": "ООО HeadHunter::Backend",
+        "link": "https://spb.hh.ru/vacancy/67304022?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior java developer (команда Архитектура)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская",
+        "currency": null,
+        "employer": "ООО HeadHunter::Backend",
+        "link": "https://spb.hh.ru/vacancy/52083698?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java разработчик в команду Интеграция",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская",
+        "currency": null,
+        "employer": "ООО HeadHunter::Backend",
+        "link": "https://spb.hh.ru/vacancy/52082133?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java разработчик в команду Монетизация",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская",
+        "currency": "руб",
+        "employer": "ООО HeadHunter::QA",
+        "link": "https://spb.hh.ru/vacancy/47759634?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle / Senior QA инженер",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская",
+        "currency": "руб",
+        "employer": "ООО HeadHunter::QA",
+        "link": "https://spb.hh.ru/vacancy/47892571?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle / Senior QA в команду безопасности",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/67044581?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Golang разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": "EUR",
+        "employer": "ООО Бринго",
+        "link": "https://spb.hh.ru/vacancy/66732884?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior PHP Developer / PHP программист",
+        "salary_max": 5000,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Бишкек",
+        "currency": null,
+        "employer": "InStat",
+        "link": "https://spb.hh.ru/vacancy/67472412?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Разработчик (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": "руб",
+        "employer": "Productivity Inside",
+        "link": "https://spb.hh.ru/vacancy/66646555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend developer",
+        "salary_max": 100000,
+        "salary_min": 70000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Красносельская",
+        "currency": null,
+        "employer": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/48725584?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend developer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": "руб",
+        "employer": "Дизайнмастер",
+        "link": "https://spb.hh.ru/vacancy/67595309?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend / Fullstack разработчик",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Орел",
+        "currency": "руб",
+        "employer": "ООО Вита Смарт",
+        "link": "https://spb.hh.ru/vacancy/67459051?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python Backend Developer (Python Django разработчик)",
+        "salary_max": 150000,
+        "salary_min": 90000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Электрозаводская",
+        "currency": "руб",
+        "employer": "ООО АВП-Технология",
+        "link": "https://spb.hh.ru/vacancy/67464344?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик",
+        "salary_max": 120000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "ООО Джае Риг",
+        "link": "https://spb.hh.ru/vacancy/66922123?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend .NET Developer",
+        "salary_max": 5000,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": "руб",
+        "employer": "Betting Software",
+        "link": "https://spb.hh.ru/vacancy/67430865?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Backend Developer (Python)",
+        "salary_max": 200000,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "MacBuildServer",
+        "link": "https://spb.hh.ru/vacancy/67474855?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Full-stack разработчик (Python, Django)",
+        "salary_max": 300000,
+        "salary_min": 180000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Group-IB",
+        "link": "https://spb.hh.ru/vacancy/55390481?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "Creative",
+        "link": "https://spb.hh.ru/vacancy/55551158?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer на Python (Middle/Senior)",
+        "salary_max": null,
+        "salary_min": 130000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "QIWI",
+        "link": "https://spb.hh.ru/vacancy/67599054?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Бэкенд-разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "FaceApp",
+        "link": "https://spb.hh.ru/vacancy/55183737?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Backend Developer (to Cyprus)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "FaceApp",
+        "link": "https://spb.hh.ru/vacancy/55005394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Backend Developer (to Cyprus)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "FORTA",
+        "link": "https://spb.hh.ru/vacancy/67054539?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Таганская",
+        "currency": "руб",
+        "employer": "ЛАЙФСТРИМ",
+        "link": "https://spb.hh.ru/vacancy/67412657?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик C++ (видео-инфраструктура, backend)",
+        "salary_max": null,
+        "salary_min": 170000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Медиабюро Статус презенс",
+        "link": "https://spb.hh.ru/vacancy/67168715?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": 55000,
+        "salary_min": 50000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Горьковская",
+        "currency": null,
+        "employer": "Доктор Веб",
+        "link": "https://spb.hh.ru/vacancy/46823861?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Back-end Разработчик / Python Back-end Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Выставочная и еще 1 ",
+        "currency": null,
+        "employer": "ЛитРес",
+        "link": "https://spb.hh.ru/vacancy/55427740?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-middle/senior (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Лента, федеральная розничная сеть, IT ",
+        "link": "https://spb.hh.ru/vacancy/67461358?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Team lead (Python developer), удаленно",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань, Кремлевская и еще 1 ",
+        "currency": null,
+        "employer": "ООО ОППЕН ТЕХ",
+        "link": "https://spb.hh.ru/vacancy/67343567?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend - разработчик (Python, Middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "EUR",
+        "employer": "OpenWeather Ltd.",
+        "link": "https://spb.hh.ru/vacancy/67379106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": null,
+        "salary_min": 2000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Платформа Сейлз Чейн",
+        "link": "https://spb.hh.ru/vacancy/66854023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Backend Developer (Python Django) / Team Lead",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Выборгская",
+        "currency": null,
+        "employer": "Протей, НТЦ",
+        "link": "https://spb.hh.ru/vacancy/66916942?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизированному тестированию/QA Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "Krew Guru",
+        "link": "https://spb.hh.ru/vacancy/66989795?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer (Middle)",
+        "salary_max": 220000,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Тимирязевская и еще 2 ",
+        "currency": "руб",
+        "employer": "ООО ВойсЛинк",
+        "link": "https://spb.hh.ru/vacancy/54049347?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий back-end программист (javascript) (удаленно)",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО ТП Лаб",
+        "link": "https://spb.hh.ru/vacancy/67622179?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик Python (junior+ / middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ПАО «Газпром нефть»",
+        "link": "https://spb.hh.ru/vacancy/66097514?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "эдмин",
+        "link": "https://spb.hh.ru/vacancy/67545509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Django разработчик, удаленно",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Агроноут",
+        "link": "https://spb.hh.ru/vacancy/66961310?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Бэкенд-разработчик/администратор сервера",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": null,
+        "employer": "СДЭК",
+        "link": "https://spb.hh.ru/vacancy/67611931?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "currency": "руб",
+        "employer": "ООО Электронная медицина",
+        "link": "https://spb.hh.ru/vacancy/47668037?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": 80000,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Красноярск",
+        "currency": null,
+        "employer": "EvoSoft",
+        "link": "https://spb.hh.ru/vacancy/51847609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Playrix",
+        "link": "https://spb.hh.ru/vacancy/67581522?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead Backend Developer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Playrix",
+        "link": "https://spb.hh.ru/vacancy/67581523?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead Backend Developer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Барнаул",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/66520163?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": 180000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Красноярск",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/66520161?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": 180000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/66520160?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": 180000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Кемерово",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/66520159?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": 180000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Омск",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/66520158?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": 180000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Брянск",
+        "currency": "руб",
+        "employer": "Kvando Technologies",
+        "link": "https://spb.hh.ru/vacancy/66813369?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик",
+        "salary_max": 120000,
+        "salary_min": 25000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ижевск",
+        "currency": null,
+        "employer": "NOVARDIS",
+        "link": "https://spb.hh.ru/vacancy/66688822?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Пермь",
+        "currency": null,
+        "employer": "NOVARDIS",
+        "link": "https://spb.hh.ru/vacancy/66688824?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "Hello Bali Beautiful",
+        "link": "https://spb.hh.ru/vacancy/55880675?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик",
+        "salary_max": 3500,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск, Площадь Победы и еще 1 ",
+        "currency": "USD",
+        "employer": "ООО ГеймМод",
+        "link": "https://spb.hh.ru/vacancy/67611788?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior backend developer на Python с опытом в gamedev",
+        "salary_max": null,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО МАГ Девелопмент",
+        "link": "https://spb.hh.ru/vacancy/67594099?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Челябинск",
+        "currency": null,
+        "employer": "ПАО ЧЕЛИНДБАНК",
+        "link": "https://spb.hh.ru/vacancy/66929500?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик (бэкенд-разработчик)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Мякинино и еще 3 ",
+        "currency": null,
+        "employer": "GRI",
+        "link": "https://spb.hh.ru/vacancy/48216332?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Team Lead / Руководитель backend разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Пермь",
+        "currency": null,
+        "employer": "ООО ЭСАНС",
+        "link": "https://spb.hh.ru/vacancy/67597545?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Воронеж",
+        "currency": null,
+        "employer": "ООО ЭСАНС",
+        "link": "https://spb.hh.ru/vacancy/67597546?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Кипр",
+        "currency": null,
+        "employer": "FUNCORP",
+        "link": "https://spb.hh.ru/vacancy/67329386?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Team Lead",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "NOVARDIS",
+        "link": "https://spb.hh.ru/vacancy/66665071?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Савёловская и еще 2 ",
+        "currency": null,
+        "employer": "Lesta Studio (St.Petersburg / Moscow)",
+        "link": "https://spb.hh.ru/vacancy/67488072?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО ЭТАЛОН МЕНЕДЖМЕНТ",
+        "link": "https://spb.hh.ru/vacancy/67573190?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "QIWI",
+        "link": "https://spb.hh.ru/vacancy/66651000?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Бэкенд-разработчик (PHP и Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "ООО МЦ Эко-безопасность",
+        "link": "https://spb.hh.ru/vacancy/66838344?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend developer .NET Core",
+        "salary_max": null,
+        "salary_min": 90000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Калуга",
+        "currency": "руб",
+        "employer": "АО АЛГОНТ",
+        "link": "https://spb.hh.ru/vacancy/50967638?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python developer",
+        "salary_max": 160000,
+        "salary_min": 90000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Калуга",
+        "currency": "руб",
+        "employer": "АО АЛГОНТ",
+        "link": "https://spb.hh.ru/vacancy/51697031?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Junior Python developer",
+        "salary_max": 90000,
+        "salary_min": 50000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Болгария",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67593318?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Linux Backend Developer",
+        "salary_max": 5700,
+        "salary_min": 4000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ГРАН",
+        "link": "https://spb.hh.ru/vacancy/55872237?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО ИНТЕКО",
+        "link": "https://spb.hh.ru/vacancy/55591635?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Factory5",
+        "link": "https://spb.hh.ru/vacancy/67451390?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python backend developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Аналитический центр при Правительстве Российской Федерации",
+        "link": "https://spb.hh.ru/vacancy/55901674?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Василеостровская и еще 1 ",
+        "currency": null,
+        "employer": "ЗАО ИСТ",
+        "link": "https://spb.hh.ru/vacancy/66118725?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик / Erlang-разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Рязанский проспект",
+        "currency": "руб",
+        "employer": "ПЭК / Офис",
+        "link": "https://spb.hh.ru/vacancy/66939352?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python / Django разработчик (ведущий)",
+        "salary_max": 180000,
+        "salary_min": 180000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кутузовская и еще 3 ",
+        "currency": null,
+        "employer": "ООО Звук",
+        "link": "https://spb.hh.ru/vacancy/49299511?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python BackEnd Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Маяковская",
+        "currency": "руб",
+        "employer": "ООО СЧПЗ Трейд",
+        "link": "https://spb.hh.ru/vacancy/67621315?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист-математик/Python-разработчик",
+        "salary_max": 180000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Альма Сервисез Компани",
+        "link": "https://spb.hh.ru/vacancy/67620948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Django middle разработчик",
+        "salary_max": 250,
+        "salary_min": 120,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Cloud",
+        "link": "https://spb.hh.ru/vacancy/47722267?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior backend developer (ML Space AI Cloud)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": "руб",
+        "employer": "ЭкспрессДеньги",
+        "link": "https://spb.hh.ru/vacancy/67418134?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer",
+        "salary_max": 300000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/66862114?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "YADRO",
+        "link": "https://spb.hh.ru/vacancy/67623247?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA automation engineer (Python) / Инженер по автоматизации тестирования",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород",
+        "currency": null,
+        "employer": "YADRO",
+        "link": "https://spb.hh.ru/vacancy/67623248?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA automation engineer (Python) / Инженер по автоматизации тестирования",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "YADRO",
+        "link": "https://spb.hh.ru/vacancy/67623249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA automation engineer (Python) / Инженер по автоматизации тестирования",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Новео",
+        "link": "https://spb.hh.ru/vacancy/55319010?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший Python-разработчик / Python Backend Developer (middle+/senior level, remote work)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Курская",
+        "currency": "руб",
+        "employer": "LEDMONSTER",
+        "link": "https://spb.hh.ru/vacancy/67346989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-stack разработчик (Python + Django. Vue.)",
+        "salary_max": null,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Finstar Financial Group",
+        "link": "https://spb.hh.ru/vacancy/66917488?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик Python",
+        "salary_max": null,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "currency": null,
+        "employer": "Finbridge",
+        "link": "https://spb.hh.ru/vacancy/67404015?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67573339?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Engineer (Python)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "USD",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67573340?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Engineer (Python)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": "USD",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67573341?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Engineer (Python)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": "USD",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67573342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Engineer (Python)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Кипр",
+        "currency": "USD",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67573343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Engineer (Python)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО Специальный Технологический Центр (ООО СТЦ)",
+        "link": "https://spb.hh.ru/vacancy/67339028?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python, Middle",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "Gurtam",
+        "link": "https://spb.hh.ru/vacancy/66632667?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer (PHP)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Улица 1905 года",
+        "currency": null,
+        "employer": "Human Capital",
+        "link": "https://spb.hh.ru/vacancy/67091282?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик C# (Backend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Rutube",
+        "link": "https://spb.hh.ru/vacancy/67540644?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кожуховская",
+        "currency": null,
+        "employer": "Netris",
+        "link": "https://spb.hh.ru/vacancy/67611118?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик С++ (Back-end/CCTV/IPTV/OTT)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/54853732?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back-End инженер Golang (Рекомендательная система)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск, Октябрьская и еще 1 ",
+        "currency": "руб",
+        "employer": "ООО Онлайн Страхование",
+        "link": "https://spb.hh.ru/vacancy/66930680?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик (Python)",
+        "salary_max": 70000,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/67272380?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (backend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/67270682?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (backend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": null,
+        "employer": "ТОО Real Soft",
+        "link": "https://spb.hh.ru/vacancy/66901196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend- разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО Коинлоан",
+        "link": "https://spb.hh.ru/vacancy/67354153?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Backend Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Курская и еще 2 ",
+        "currency": "руб",
+        "employer": "ПАО «МТС» ",
+        "link": "https://spb.hh.ru/vacancy/53694386?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Backend Python Developer платформа анализа и синтеза речи (MTS AI)",
+        "salary_max": null,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы, Байконур и еще 1 ",
+        "currency": "KZT",
+        "employer": "ТОО Коммерц Group",
+        "link": "https://spb.hh.ru/vacancy/67462107?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend (Django) разработчик",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Россия",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/67514023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Бэкенд-разработчик в Яндекс",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Бауманская",
+        "currency": null,
+        "employer": "РОССТ, РА",
+        "link": "https://spb.hh.ru/vacancy/54146105?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Ассистагро",
+        "link": "https://spb.hh.ru/vacancy/55871043?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle/Senior Backend Developer",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Международная медиагруппа Россия сегодня (МИА Россия сегодня)",
+        "link": "https://spb.hh.ru/vacancy/67246279?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "EUR",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67513655?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer (Crypto)",
+        "salary_max": 5500,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": "руб",
+        "employer": "ЭкспрессДеньги",
+        "link": "https://spb.hh.ru/vacancy/67425179?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": 80000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": "руб",
+        "employer": "ООО Мелдана",
+        "link": "https://spb.hh.ru/vacancy/67429128?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист-разработчик Python",
+        "salary_max": null,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/53265517?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech lead Backend",
+        "salary_max": 170000,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/67466846?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Software engineer (Python)",
+        "salary_max": 500000,
+        "salary_min": 300000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск, Октябрьская",
+        "currency": "руб",
+        "employer": "ООО АйТи Мегастар",
+        "link": "https://spb.hh.ru/vacancy/53275903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer (middle)",
+        "salary_max": 180000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО МКК Киберлэндинг",
+        "link": "https://spb.hh.ru/vacancy/54955784?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Бауманская и еще 2 ",
+        "currency": null,
+        "employer": "ПАО Первая Грузовая Компания, IT/Digital",
+        "link": "https://spb.hh.ru/vacancy/67443897?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО ВЕБ Инфраструктура",
+        "link": "https://spb.hh.ru/vacancy/67138279?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Software Developer Python",
+        "salary_max": 180000,
+        "salary_min": 60000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "Hi, Rockits!",
+        "link": "https://spb.hh.ru/vacancy/55423226?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": null,
+        "salary_min": 5000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ижевск",
+        "currency": null,
+        "employer": "Directum",
+        "link": "https://spb.hh.ru/vacancy/67257992?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик сервисов (Python/C#)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Софтвэй++",
+        "link": "https://spb.hh.ru/vacancy/67355947?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик",
+        "salary_max": null,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "МФТИ ГУ",
+        "link": "https://spb.hh.ru/vacancy/67095292?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "OutStream",
+        "link": "https://spb.hh.ru/vacancy/67083480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer",
+        "salary_max": 300000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ТехноНИКОЛЬ",
+        "link": "https://spb.hh.ru/vacancy/55544528?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Разработчик EDWH Python SQL",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО Коинлоан",
+        "link": "https://spb.hh.ru/vacancy/67354151?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Киров (Кировская область)",
+        "currency": null,
+        "employer": "ООО Цифровой Платеж",
+        "link": "https://spb.hh.ru/vacancy/67171282?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик (Backend developer)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Курская",
+        "currency": null,
+        "employer": "Онлайн-школа Тетрика",
+        "link": "https://spb.hh.ru/vacancy/67173909?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-Developer Python (middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Spice Agency",
+        "link": "https://spb.hh.ru/vacancy/66533964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": 350000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Тульская",
+        "currency": null,
+        "employer": "Rambler&Co",
+        "link": "https://spb.hh.ru/vacancy/67349693?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО ИнноГеоТех",
+        "link": "https://spb.hh.ru/vacancy/67415870?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик (middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "ООО ИнноГеоТех",
+        "link": "https://spb.hh.ru/vacancy/67415871?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик (middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": null,
+        "employer": "ООО ИнноГеоТех",
+        "link": "https://spb.hh.ru/vacancy/67415872?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик (middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "Макаренко Александр Сергеевич",
+        "link": "https://spb.hh.ru/vacancy/67547289?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back end developer / Full stack developer / IT administrator С# (Remote)",
+        "salary_max": 2500,
+        "salary_min": 2000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": "USD",
+        "employer": "Макаренко Александр Сергеевич",
+        "link": "https://spb.hh.ru/vacancy/67547290?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back end developer / Full stack developer / IT administrator C# (удаленно)",
+        "salary_max": 2500,
+        "salary_min": 2000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "USD",
+        "employer": "Макаренко Александр Сергеевич",
+        "link": "https://spb.hh.ru/vacancy/67547291?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back end developer / Full stack developer / IT administrator С# (Remote)",
+        "salary_max": 2500,
+        "salary_min": 2000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Давыдково",
+        "currency": "руб",
+        "employer": "ООО Искусственный интеллект",
+        "link": "https://spb.hh.ru/vacancy/67166740?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python / Python Developer (Middle) Backend",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Киевская",
+        "currency": null,
+        "employer": "АО МаксимаТелеком",
+        "link": "https://spb.hh.ru/vacancy/67415921?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back-end разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "EXANTE",
+        "link": "https://spb.hh.ru/vacancy/67359243?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "currency": null,
+        "employer": "Tele2",
+        "link": "https://spb.hh.ru/vacancy/67261615?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ташкент",
+        "currency": null,
+        "employer": "ООО AKFA Group",
+        "link": "https://spb.hh.ru/vacancy/67255175?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Maspalla",
+        "link": "https://spb.hh.ru/vacancy/67353953?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (Middle+)",
+        "salary_max": 160000,
+        "salary_min": 90000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Кадровое агентство ИМПЕРИЯ КАДРОВ",
+        "link": "https://spb.hh.ru/vacancy/54264448?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик (Python, Django)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "МАГНИТ, Розничная сеть",
+        "link": "https://spb.hh.ru/vacancy/67417124?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python/Go Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Asodesk",
+        "link": "https://spb.hh.ru/vacancy/67253363?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": 200000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Краснодар",
+        "currency": null,
+        "employer": "ООО Ростелеком Информационные Технологии",
+        "link": "https://spb.hh.ru/vacancy/45607335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": null,
+        "employer": "ООО Визуалити Инновэйшен",
+        "link": "https://spb.hh.ru/vacancy/67232643?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "Ozon Fintech",
+        "link": "https://spb.hh.ru/vacancy/66819549?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший инженер по автоматизации тестирования, Golang, back-end, Ozon Bank",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Бауманская и еще 2 ",
+        "currency": null,
+        "employer": "ПАО Первая Грузовая Компания, IT/Digital",
+        "link": "https://spb.hh.ru/vacancy/67239011?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Чертановская",
+        "currency": null,
+        "employer": "QIWI",
+        "link": "https://spb.hh.ru/vacancy/55106678?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Backend Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Чертановская",
+        "currency": null,
+        "employer": "QIWI",
+        "link": "https://spb.hh.ru/vacancy/55106701?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Backend Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Верхние Котлы и еще 1 ",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/67352577?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (SberWorks)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алтуфьево",
+        "currency": "руб",
+        "employer": "АО АВТОДОМ",
+        "link": "https://spb.hh.ru/vacancy/54778362?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Go Lang разработчик",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Дмитровская",
+        "currency": null,
+        "employer": "ivi",
+        "link": "https://spb.hh.ru/vacancy/54517657?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию backend",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ГК Медси. Управляющая компания",
+        "link": "https://spb.hh.ru/vacancy/67401930?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python разработчик (удалённо)",
+        "salary_max": 300000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/50875873?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Python, ERP и учетные системы",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Саранск",
+        "currency": null,
+        "employer": "HEADS and HANDS",
+        "link": "https://spb.hh.ru/vacancy/67396474?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend developer / Golang developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Верхние Котлы и еще 1 ",
+        "currency": null,
+        "employer": "Группа компаний Астра",
+        "link": "https://spb.hh.ru/vacancy/67348685?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кутузовская и еще 3 ",
+        "currency": null,
+        "employer": "ООО Звук",
+        "link": "https://spb.hh.ru/vacancy/54913682?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python BackEnd Developer (Rec&Search)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "getmatch",
+        "link": "https://spb.hh.ru/vacancy/67259095?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший Python-разработчик",
+        "salary_max": 400000,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "WebMasters Russia",
+        "link": "https://spb.hh.ru/vacancy/66953698?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python developer (blockchain)",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Бауманская",
+        "currency": null,
+        "employer": "РОССТ, РА",
+        "link": "https://spb.hh.ru/vacancy/49883107?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer (Golang)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": "руб",
+        "employer": "Ростелеком Контакт-центр",
+        "link": "https://spb.hh.ru/vacancy/66576432?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Java Developer (middle)",
+        "salary_max": null,
+        "salary_min": 240000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Лаборатория визуализации Сфера\"",
+        "link": "https://spb.hh.ru/vacancy/55214973?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик backend (middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "KAMAZ DIGITAL",
+        "link": "https://spb.hh.ru/vacancy/66677084?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer (Микротранзит)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Площадь Ленина",
+        "currency": null,
+        "employer": "YADRO",
+        "link": "https://spb.hh.ru/vacancy/67335132?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород, Горьковская",
+        "currency": null,
+        "employer": "YADRO",
+        "link": "https://spb.hh.ru/vacancy/67335088?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": null,
+        "employer": "ГКУ Инфогород",
+        "link": "https://spb.hh.ru/vacancy/66191592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Архитектор мобильной разработки (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": null,
+        "employer": "Programming Store",
+        "link": "https://spb.hh.ru/vacancy/67251231?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (дистанционно)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Челябинск",
+        "currency": null,
+        "employer": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/67226964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик Wizard",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/67400399?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (Human-in-the-loop)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Московский Кредитный Банк. ИТ-специалисты",
+        "link": "https://spb.hh.ru/vacancy/67060640?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python Backend разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "RU-CENTER Group",
+        "link": "https://spb.hh.ru/vacancy/66820664?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "MIDDLE Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Калининград",
+        "currency": null,
+        "employer": "МойОфис",
+        "link": "https://spb.hh.ru/vacancy/46953830?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Automation QA (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": null,
+        "employer": "МойОфис",
+        "link": "https://spb.hh.ru/vacancy/46953829?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Automation QA (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "МойОфис",
+        "link": "https://spb.hh.ru/vacancy/46953828?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Automation QA (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Минт Паблишинг",
+        "link": "https://spb.hh.ru/vacancy/67132575?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик",
+        "salary_max": null,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кутузовская и еще 3 ",
+        "currency": null,
+        "employer": "ООО Звук",
+        "link": "https://spb.hh.ru/vacancy/54913949?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python BackEnd Developer (Retention)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "NOVARDIS",
+        "link": "https://spb.hh.ru/vacancy/66688823?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "NOVARDIS",
+        "link": "https://spb.hh.ru/vacancy/66688821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО ИЦ АЙ-ТЕКО",
+        "link": "https://spb.hh.ru/vacancy/67070389?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Баковка и еще 1 ",
+        "currency": null,
+        "employer": "ООО ИЦ АЙ-ТЕКО",
+        "link": "https://spb.hh.ru/vacancy/67070973?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Developer Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Киров (Кировская область)",
+        "currency": null,
+        "employer": "ELMA",
+        "link": "https://spb.hh.ru/vacancy/53545373?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python ML/обработка естественного языка",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ELMA",
+        "link": "https://spb.hh.ru/vacancy/53545384?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (ML/обработка естественного языка)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тюмень",
+        "currency": null,
+        "employer": "ООО Объединение когнитивных ассоциативных систем",
+        "link": "https://spb.hh.ru/vacancy/55411988?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Backend Developer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Беговая",
+        "currency": "руб",
+        "employer": "ООО Видео 247",
+        "link": "https://spb.hh.ru/vacancy/54354487?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend QA Engineer",
+        "salary_max": null,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/67256816?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (мониторинг инфраструктуры)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ташкент",
+        "currency": null,
+        "employer": "ООО UZINFOCOM",
+        "link": "https://spb.hh.ru/vacancy/66889937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (Middle/Senior Backend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы, Алатау",
+        "currency": null,
+        "employer": "ТОО MyCar Group",
+        "link": "https://spb.hh.ru/vacancy/67227418?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Team Lead Python разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы, Алатау",
+        "currency": null,
+        "employer": "ТОО MyCar Group",
+        "link": "https://spb.hh.ru/vacancy/67227443?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead Python разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Самара",
+        "currency": null,
+        "employer": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/52830106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию (Backend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/50880902?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Python, Поиск, Индексация",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Ozon Fintech",
+        "link": "https://spb.hh.ru/vacancy/67416219?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший инженер по автоматизации тестирования, Python, API, Ozon Bank",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Fintech",
+        "link": "https://spb.hh.ru/vacancy/67416220?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший инженер по автоматизации тестирования, Python, API, Ozon Bank",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": "руб",
+        "employer": "INNOVA GROUP",
+        "link": "https://spb.hh.ru/vacancy/67011835?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/55143671?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior QA Backend Full-Stack",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": null,
+        "employer": "АО ИнфоТеКС",
+        "link": "https://spb.hh.ru/vacancy/54567557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик back-end Ampire",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО ИнфоТеКС",
+        "link": "https://spb.hh.ru/vacancy/54567558?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик back-end Ampire",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Калуга",
+        "currency": "руб",
+        "employer": "ORBIS",
+        "link": "https://spb.hh.ru/vacancy/66785717?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Web-разработчик / Backend программист Python",
+        "salary_max": 180000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Кловер Групп",
+        "link": "https://spb.hh.ru/vacancy/55348874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий разработчик Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО ТехЛАБ",
+        "link": "https://spb.hh.ru/vacancy/67092476?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": null,
+        "employer": "Interactive Standard, LLC",
+        "link": "https://spb.hh.ru/vacancy/67267641?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer в отдел ML/DL",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/67359006?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Go/Python, Travel, Внутренние системы",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Беговая",
+        "currency": null,
+        "employer": "Okko",
+        "link": "https://spb.hh.ru/vacancy/67095652?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Барнаул",
+        "currency": null,
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67079098?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Linux Backend Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Иркутск",
+        "currency": null,
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67079100?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Linux Backend Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Улан-Удэ",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67079101?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Linux Backend Developer",
+        "salary_max": 5700,
+        "salary_min": 4000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Чита",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67079102?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Linux Backend Developer",
+        "salary_max": 5700,
+        "salary_min": 4000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Кемерово",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67079104?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Linux Backend Developer",
+        "salary_max": 5700,
+        "salary_min": 4000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Поток.Диджитал",
+        "link": "https://spb.hh.ru/vacancy/66553433?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back-end Developer (Ruby On Rails) удалённо",
+        "salary_max": 350000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": "руб",
+        "employer": "Тензор",
+        "link": "https://spb.hh.ru/vacancy/66952533?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": 202000,
+        "salary_min": 120000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": null,
+        "employer": "DataArt",
+        "link": "https://spb.hh.ru/vacancy/67315028?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer, Cloud Service Business Solutions",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Саратов",
+        "currency": null,
+        "employer": "ООО Сервисный центр Транстелематика",
+        "link": "https://spb.hh.ru/vacancy/50982924?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тольятти",
+        "currency": "USD",
+        "employer": "Optimax Dev",
+        "link": "https://spb.hh.ru/vacancy/53804029?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Test Automation Engineer (backend)",
+        "salary_max": null,
+        "salary_min": 850,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Царенкова Элина Романовна",
+        "link": "https://spb.hh.ru/vacancy/66938727?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/55098915?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "Контур",
+        "link": "https://spb.hh.ru/vacancy/55539720?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик",
+        "salary_max": 270000,
+        "salary_min": 170000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": "KZT",
+        "employer": "ТОО ROI Group",
+        "link": "https://spb.hh.ru/vacancy/66913733?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик",
+        "salary_max": 300000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "currency": "руб",
+        "employer": "CHILLICODE",
+        "link": "https://spb.hh.ru/vacancy/67145690?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Team Lead команды backend-разработки",
+        "salary_max": 200000,
+        "salary_min": 180000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО ИЦ АЙ-ТЕКО",
+        "link": "https://spb.hh.ru/vacancy/67072641?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python (Middle/Senior)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Самара",
+        "currency": "руб",
+        "employer": "ООО МедиаСофт",
+        "link": "https://spb.hh.ru/vacancy/46229759?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle / Senior Python / Go developer",
+        "salary_max": 200000,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Р-Вижн",
+        "link": "https://spb.hh.ru/vacancy/66828795?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Rambler&Co",
+        "link": "https://spb.hh.ru/vacancy/66814741?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "Programming Store",
+        "link": "https://spb.hh.ru/vacancy/55590159?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (дистанционно)",
+        "salary_max": 200000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Белорусская",
+        "currency": null,
+        "employer": "Банк Хоум Кредит",
+        "link": "https://spb.hh.ru/vacancy/66814783?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Петрозаводск",
+        "currency": null,
+        "employer": "ООО К-Скай",
+        "link": "https://spb.hh.ru/vacancy/66809005?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/67055679?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "C++/Python разработчик (Браузер)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": "USD",
+        "employer": "Skipp.pro",
+        "link": "https://spb.hh.ru/vacancy/66795633?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Developer",
+        "salary_max": 3000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Планерная",
+        "currency": null,
+        "employer": "Айбим",
+        "link": "https://spb.hh.ru/vacancy/50931539?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back-end разработчик Web-приложений (Python, middle,middle+)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/54794044?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Python, Логистика, Интеграция логистических провайдеров",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ижевск",
+        "currency": null,
+        "employer": "ELMA",
+        "link": "https://spb.hh.ru/vacancy/54349455?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Python ML/обработка естественного языка",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "V4Scale",
+        "link": "https://spb.hh.ru/vacancy/66795913?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer - from Middle to Senior (Remote)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Омск",
+        "currency": null,
+        "employer": "Страна Девелопмент",
+        "link": "https://spb.hh.ru/vacancy/67044090?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик BackEnd (Team Lead)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": null,
+        "employer": "Страна Девелопмент",
+        "link": "https://spb.hh.ru/vacancy/67044051?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик BackEnd (Team Lead)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": null,
+        "employer": "Страна Девелопмент",
+        "link": "https://spb.hh.ru/vacancy/67043963?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик BackEnd (Team Lead)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тюмень",
+        "currency": null,
+        "employer": "Страна Девелопмент",
+        "link": "https://spb.hh.ru/vacancy/67043942?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик BackEnd (Team Lead)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": "руб",
+        "employer": "ReTech Labs",
+        "link": "https://spb.hh.ru/vacancy/54913660?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python / Django Developer",
+        "salary_max": null,
+        "salary_min": 170000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "ООО ИНФИНАЙТ СИНЕРДЖИ",
+        "link": "https://spb.hh.ru/vacancy/66955232?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer (Middle)",
+        "salary_max": 200000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": null,
+        "employer": "ТОО SilkwayTransit",
+        "link": "https://spb.hh.ru/vacancy/67105664?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend-разработчик Django",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": null,
+        "employer": "ПАО «Газпром нефть»",
+        "link": "https://spb.hh.ru/vacancy/67325001?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (ID 10741)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "BI.ZONE Направление Разработка",
+        "link": "https://spb.hh.ru/vacancy/66873552?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Python разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "БИОКАД, биотехнологическая компания",
+        "link": "https://spb.hh.ru/vacancy/50313519?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend - разработчик (Haskell)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "БИОКАД, биотехнологическая компания",
+        "link": "https://spb.hh.ru/vacancy/50313520?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend - разработчик (Haskell)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": "руб",
+        "employer": "Programming Store",
+        "link": "https://spb.hh.ru/vacancy/66861866?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (дистанционно)",
+        "salary_max": 200000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Insider Week",
+        "link": "https://spb.hh.ru/vacancy/66852511?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Пятигорск",
+        "currency": null,
+        "employer": "АО Монитор Электрик",
+        "link": "https://spb.hh.ru/vacancy/67050597?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Разработчик C# Back-End",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Калуга",
+        "currency": null,
+        "employer": "АО РТИ",
+        "link": "https://spb.hh.ru/vacancy/55884572?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Backend developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "АО Эшелон Технологии",
+        "link": "https://spb.hh.ru/vacancy/66833876?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python разработчик (QA)",
+        "salary_max": 150000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Павелецкая и еще 1 ",
+        "currency": null,
+        "employer": "Криптонит",
+        "link": "https://spb.hh.ru/vacancy/46954523?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (backend/frontend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Василеостровская",
+        "currency": null,
+        "employer": "Криптонит",
+        "link": "https://spb.hh.ru/vacancy/46954444?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (backend/frontend)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Школа программирования Kodland",
+        "link": "https://spb.hh.ru/vacancy/67011681?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer (to Latvia)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": null,
+        "employer": "DataArt",
+        "link": "https://spb.hh.ru/vacancy/67315256?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer, Cloud Service Business Solutions",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы, Алатау",
+        "currency": null,
+        "employer": "ТОО MyCar Group",
+        "link": "https://spb.hh.ru/vacancy/66813017?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": null,
+        "employer": "DataArt",
+        "link": "https://spb.hh.ru/vacancy/67315031?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer, Cloud Service Business Solutions",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Талала",
+        "link": "https://spb.hh.ru/vacancy/55298011?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Московские ворота",
+        "currency": "руб",
+        "employer": "Тензор",
+        "link": "https://spb.hh.ru/vacancy/55409094?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Backend developer",
+        "salary_max": 380000,
+        "salary_min": 230000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955863?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955847?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Авиамоторная и еще 2 ",
+        "currency": null,
+        "employer": "ООО Делис Инфо",
+        "link": "https://spb.hh.ru/vacancy/66819463?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Lead Developer FullStack (Python, React)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "ООО БПМ Клауд",
+        "link": "https://spb.hh.ru/vacancy/55488469?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Web-разработчик / Full-stack Web-developer (Фулстак разработчик)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955859?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Самара",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955851?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955843?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955838?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "oneFactor",
+        "link": "https://spb.hh.ru/vacancy/66955831?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "FullStack QA Engineer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "KRK Group",
+        "link": "https://spb.hh.ru/vacancy/66789545?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Fullstack разработчик",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Савёловская и еще 1 ",
+        "currency": "руб",
+        "employer": "ГБУ МО Мособлгеотрест",
+        "link": "https://spb.hh.ru/vacancy/53585196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead (Руководитель отдела разработки-архитектор)",
+        "salary_max": 270000,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": null,
+        "employer": "DataArt",
+        "link": "https://spb.hh.ru/vacancy/66779351?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full Stack Developer (Node.js+ React), Online Genealogy Service",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/66891711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик в Процессы бэк-офиса",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/66891613?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python-разработчик в Процессы бэк-офиса",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/67055907?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Go/Python, Маркетплейс, Контент и товары",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": "руб",
+        "employer": "ООО Старттэд",
+        "link": "https://spb.hh.ru/vacancy/66935088?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backen-разработчик (Python FastAPI)",
+        "salary_max": null,
+        "salary_min": 90000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург, Площадь 1905 года",
+        "currency": null,
+        "employer": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/66934335?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Python-разработчик (команда финансового ассистента Олега)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "CleverDATA",
+        "link": "https://spb.hh.ru/vacancy/48722697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java Developer/ Backend разработчик (продукт +интеграции)",
+        "salary_max": 350000,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "CleverDATA",
+        "link": "https://spb.hh.ru/vacancy/53079275?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java Developer/ Backend разработчик (CDP платформа)",
+        "salary_max": 350000,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Фуллстатс (ИП Вяткин Владислав Владимирович)",
+        "link": "https://spb.hh.ru/vacancy/66785491?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend Team lead / Senior Developer",
+        "salary_max": null,
+        "salary_min": 300000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Кызыл",
+        "currency": "руб",
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/48544548?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Специалист службы поддержки с техническими знаниями в Яндекс 360 (бэкенд)",
+        "salary_max": null,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/48361097?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Специалист службы поддержки с техническими знаниями в Яндекс 360 (бэкенд)",
+        "salary_max": null,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО ФАЙВДЖЕН",
+        "link": "https://spb.hh.ru/vacancy/67439551?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle / Senior QA engineer",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Зорге и еще 2 ",
+        "currency": "руб",
+        "employer": "УК ТАВРОС",
+        "link": "https://spb.hh.ru/vacancy/66811048?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Node.js - разработчик (backend / fullstack)",
+        "salary_max": 161000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ANABAR",
+        "link": "https://spb.hh.ru/vacancy/67284521?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior JavaScript разработчик (React)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Помощь интернет магазинам",
+        "link": "https://spb.hh.ru/vacancy/67301872?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": ".Net Developer middle",
+        "salary_max": 210000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Зорге и еще 2 ",
+        "currency": "руб",
+        "employer": "УК ТАВРОС",
+        "link": "https://spb.hh.ru/vacancy/66811570?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backend / Fullstack Node.js - разработчик (Middle)",
+        "salary_max": 90000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": null,
+        "employer": "Частная компания Xignal&MT Ltd.",
+        "link": "https://spb.hh.ru/vacancy/67603978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Backеnd Senior",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67462470?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/SRE Engineer (Key Administrator)",
+        "salary_max": 5700,
+        "salary_min": 3500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67462471?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/SRE Engineer (Key Administrator)",
+        "salary_max": 5700,
+        "salary_min": 3500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Tevian (ООО Технологии видеоанализа)",
+        "link": "https://spb.hh.ru/vacancy/50611060?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "C++ разработчик",
+        "salary_max": 300000,
+        "salary_min": 220000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Динамо и еще 2 ",
+        "currency": "руб",
+        "employer": "АРМО, ГК",
+        "link": "https://spb.hh.ru/vacancy/54495865?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Junior разработчик C++",
+        "salary_max": 80000,
+        "salary_min": 60000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "FORTA",
+        "link": "https://spb.hh.ru/vacancy/67012865?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (Senior)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ЗАО НОРСИ-ТРАНС",
+        "link": "https://spb.hh.ru/vacancy/67227770?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Системный аналитик",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кунцевская и еще 2 ",
+        "currency": "руб",
+        "employer": "АО Олдридж Энд Барнз",
+        "link": "https://spb.hh.ru/vacancy/67589264?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-stack разработчик",
+        "salary_max": 350000,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": null,
+        "employer": "Частная компания Xignal&MT Ltd.",
+        "link": "https://spb.hh.ru/vacancy/67604321?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Junior разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Красносельская",
+        "currency": null,
+        "employer": "ООО Константа",
+        "link": "https://spb.hh.ru/vacancy/53814217?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Golang developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Тульская",
+        "currency": "руб",
+        "employer": "WINLINE",
+        "link": "https://spb.hh.ru/vacancy/55104001?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий инженер по автоматизированному тестированию / Automated QA Engineer (JavaScript)",
+        "salary_max": null,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "Дерив БАЙ",
+        "link": "https://spb.hh.ru/vacancy/66791542?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Tester",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань, Суконная слобода",
+        "currency": null,
+        "employer": "Автодория",
+        "link": "https://spb.hh.ru/vacancy/67379677?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер машинного обучения (ML Engineer)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": "USD",
+        "employer": "ООО Kanda CA",
+        "link": "https://spb.hh.ru/vacancy/66227303?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (Middle, Senior)",
+        "salary_max": 4000,
+        "salary_min": 1500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Автомакон",
+        "link": "https://spb.hh.ru/vacancy/67494470?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Data Engineer",
+        "salary_max": null,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "VK, Почтовые сервисы",
+        "link": "https://spb.hh.ru/vacancy/49854164?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "IOS-разработчик (Почта)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Т1 Консалтинг",
+        "link": "https://spb.hh.ru/vacancy/55183378?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "IT lead",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "Top Remote Talent",
+        "link": "https://spb.hh.ru/vacancy/66938584?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation",
+        "salary_max": 3300,
+        "salary_min": 2500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Парк культуры",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/52256634?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Devops Engineer | SRE",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Waves Enterprise",
+        "link": "https://spb.hh.ru/vacancy/55096690?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior QA engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/67536650?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования (Склад)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/67086600?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "С++ разработчик в Мессенджер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/67086601?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "С++ разработчик в Мессенджер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Выставочная и еще 2 ",
+        "currency": "руб",
+        "employer": "Rusprofile",
+        "link": "https://spb.hh.ru/vacancy/55867749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "PHP Developer / PHP Разработчик",
+        "salary_max": 300000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/67544754?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Главный инженер по разработке",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Group-IB",
+        "link": "https://spb.hh.ru/vacancy/66839342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Frontend-разработчик (React, MobX)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО РТИМ",
+        "link": "https://spb.hh.ru/vacancy/67500388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle/Senior ML (Рекомендательная система)",
+        "salary_max": null,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": "USD",
+        "employer": "SoftGamings",
+        "link": "https://spb.hh.ru/vacancy/66140525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle PHP-developer",
+        "salary_max": 3000,
+        "salary_min": 1500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Scalable Solutions",
+        "link": "https://spb.hh.ru/vacancy/67548953?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Software Developer in Test (SDET)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО ТУ СОФТ",
+        "link": "https://spb.hh.ru/vacancy/67615904?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Frontend Разработчик Middle/Senior (React, Typescript)",
+        "salary_max": 250000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Турция",
+        "currency": null,
+        "employer": "IntelligiChain",
+        "link": "https://spb.hh.ru/vacancy/67609587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior ML Software/Ops Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Сербия",
+        "currency": null,
+        "employer": "IntelligiChain",
+        "link": "https://spb.hh.ru/vacancy/67609589?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior ML Software/Ops Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": null,
+        "employer": "IntelligiChain",
+        "link": "https://spb.hh.ru/vacancy/67609590?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior ML Software/Ops Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Черногория",
+        "currency": null,
+        "employer": "IntelligiChain",
+        "link": "https://spb.hh.ru/vacancy/67609591?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior ML Software/Ops Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "ООО Цифромед",
+        "link": "https://spb.hh.ru/vacancy/66832578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Таганрог",
+        "currency": null,
+        "employer": "ООО Umbrella IT",
+        "link": "https://spb.hh.ru/vacancy/47392745?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Волоколамская и еще 3 ",
+        "currency": null,
+        "employer": "DEPO Computers",
+        "link": "https://spb.hh.ru/vacancy/67585805?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Fullstack Developer/DevOps",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": "USD",
+        "employer": "ITHR.space",
+        "link": "https://spb.hh.ru/vacancy/67101672?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle+ IT Recruiter for a Dubai Based Fintech Platform",
+        "salary_max": 2700,
+        "salary_min": 2300,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": null,
+        "employer": "Velvetech, LLC",
+        "link": "https://spb.hh.ru/vacancy/67366892?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": ".Net Developer (remote)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Баку",
+        "currency": null,
+        "employer": "Velvetech, LLC",
+        "link": "https://spb.hh.ru/vacancy/67366893?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": ".Net Developer (remote)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Проспект Вернадского",
+        "currency": null,
+        "employer": "АО РТ Лабс",
+        "link": "https://spb.hh.ru/vacancy/67579081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Web / QA Automation Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Волгоград",
+        "currency": null,
+        "employer": "Stroyportal.ru - интернет-площадка",
+        "link": "https://spb.hh.ru/vacancy/55148920?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Web разработчик (Front-end, middle)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Playrix",
+        "link": "https://spb.hh.ru/vacancy/67581381?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead Data Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Playrix",
+        "link": "https://spb.hh.ru/vacancy/67581382?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead Data Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Динамо и еще 2 ",
+        "currency": "руб",
+        "employer": "Joom",
+        "link": "https://spb.hh.ru/vacancy/52219096?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Big Data Engineer (Scala, Spark) (to Europe)",
+        "salary_max": null,
+        "salary_min": 350000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Райффайзен Банк",
+        "link": "https://spb.hh.ru/vacancy/67620731?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA-инженер в команду финансовых сервисов",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Поток.Диджитал",
+        "link": "https://spb.hh.ru/vacancy/67559119?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps инженер (удаленно)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "USD",
+        "employer": "Outlines Technologies",
+        "link": "https://spb.hh.ru/vacancy/66555796?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps инженер (KSN)",
+        "salary_max": 4000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "LoyaltyPlant",
+        "link": "https://spb.hh.ru/vacancy/66957907?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Mobile Developer/TeamLead",
+        "salary_max": null,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Бауманская",
+        "currency": null,
+        "employer": "РОССТ, РА",
+        "link": "https://spb.hh.ru/vacancy/66821326?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Project Manager / Менеджер продукта (IT проект)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск, Площадь Якуба Коласа",
+        "currency": "USD",
+        "employer": "Abiatec",
+        "link": "https://spb.hh.ru/vacancy/67330619?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Golang Middle/Senior Developer",
+        "salary_max": 4500,
+        "salary_min": 1500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Улица 1905 года",
+        "currency": null,
+        "employer": "Human Capital",
+        "link": "https://spb.hh.ru/vacancy/53625094?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Team Lead",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Улица 1905 года",
+        "currency": null,
+        "employer": "Human Capital",
+        "link": "https://spb.hh.ru/vacancy/67029732?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тольятти",
+        "currency": "руб",
+        "employer": "АО ВАЗСИСТЕМ",
+        "link": "https://spb.hh.ru/vacancy/67573377?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист C++",
+        "salary_max": null,
+        "salary_min": 50000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ПАО «МТС», IT",
+        "link": "https://spb.hh.ru/vacancy/67603494?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизированному тестированию",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/67514073?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "С++ разработчик в Справочник",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "EUR",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67572148?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Software Engineer (Full-stack)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО АЙТИ.СПЕЙС",
+        "link": "https://spb.hh.ru/vacancy/67485639?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Automation testing engineer (удаленно)",
+        "salary_max": 250000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "aim",
+        "link": "https://spb.hh.ru/vacancy/67502816?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Chief Technology Officer (CTO)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/67508684?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "ML-разработчик в Яндекс Картинки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Томск",
+        "currency": null,
+        "employer": "АО Научно-производственная фирма Микран",
+        "link": "https://spb.hh.ru/vacancy/54650846?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-stack разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Курская и еще 2 ",
+        "currency": null,
+        "employer": "ПАО «МТС» ",
+        "link": "https://spb.hh.ru/vacancy/67475610?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior/Middle ML разработчик ASR (МТS AI)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Star-Staff",
+        "link": "https://spb.hh.ru/vacancy/67539356?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle\\Senior QA engineer (manual\\auto)",
+        "salary_max": null,
+        "salary_min": 180000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кутузовская и еще 1 ",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/66875608?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший Инженер по сопровождению",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Красноярск",
+        "currency": "руб",
+        "employer": "Ценалом",
+        "link": "https://spb.hh.ru/vacancy/54026500?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Frontend-разработчик",
+        "salary_max": null,
+        "salary_min": 80000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Елизаровская",
+        "currency": null,
+        "employer": "Конфидент",
+        "link": "https://spb.hh.ru/vacancy/52181273?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "WEB - программист /Linux (WAF)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Василеостровская",
+        "currency": null,
+        "employer": "Sitronics KT",
+        "link": "https://spb.hh.ru/vacancy/50453555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Lead/Senior Full Stack Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО ВижнЛабс (VisionLabs)",
+        "link": "https://spb.hh.ru/vacancy/67256178?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior QA engineer (auto)",
+        "salary_max": null,
+        "salary_min": 180000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Петроградская",
+        "currency": "руб",
+        "employer": "ООО Виго Лаб",
+        "link": "https://spb.hh.ru/vacancy/67536144?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior/Middle Java Developer",
+        "salary_max": 400000,
+        "salary_min": 220000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": null,
+        "employer": "2ГИС",
+        "link": "https://spb.hh.ru/vacancy/67593472?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/CI инженер в сервис мобильных приложений",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "2ГИС",
+        "link": "https://spb.hh.ru/vacancy/67593473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/CI инженер в сервис мобильных приложений",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "2ГИС",
+        "link": "https://spb.hh.ru/vacancy/67593474?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/CI инженер в сервис мобильных приложений",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": null,
+        "employer": "2ГИС",
+        "link": "https://spb.hh.ru/vacancy/67593475?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/CI инженер в сервис мобильных приложений",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Екатеринбург",
+        "currency": null,
+        "employer": "2ГИС",
+        "link": "https://spb.hh.ru/vacancy/67593476?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps/CI инженер в сервис мобильных приложений",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": " Schlumberger. АО ИКФ-Сервис. Офис",
+        "link": "https://spb.hh.ru/vacancy/67480667?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full Stack Software Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Проспект Вернадского",
+        "currency": null,
+        "employer": "ООО Ростелеком Информационные Технологии",
+        "link": "https://spb.hh.ru/vacancy/67546510?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель отдела разработки (Golang)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": "руб",
+        "employer": "Coworky",
+        "link": "https://spb.hh.ru/vacancy/67505936?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA manual/auto specialist",
+        "salary_max": 250000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "СберМаркет",
+        "link": "https://spb.hh.ru/vacancy/66775411?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Data Scientist в СберМаркет (команда поиска)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "EUR",
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/67510963?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Software Engineer (Full-stack)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Выставочная и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/54135241?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования мобильных приложений, Приложение покупателя",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Дмитровская",
+        "currency": "руб",
+        "employer": "DEFA",
+        "link": "https://spb.hh.ru/vacancy/67421491?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель проекта (мобильная разработка)",
+        "salary_max": 140000,
+        "salary_min": 110000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Wrike",
+        "link": "https://spb.hh.ru/vacancy/54725147?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Data Engineer (to Cyprus)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО Русатом Инфраструктурные Решения",
+        "link": "https://spb.hh.ru/vacancy/66730419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию ПО / QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Тульская",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/67449463?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Системный аналитик (ППРБ)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Савёловская и еще 2 ",
+        "currency": null,
+        "employer": "Лига Цифровой Экономики",
+        "link": "https://spb.hh.ru/vacancy/67409434?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Java (Big Data)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кутузовская",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/52839227?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle ML Engineer (работа с данными) SberDevices",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK Цифровые технологии",
+        "link": "https://spb.hh.ru/vacancy/67290645?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель разработки продукта (VK WorkSpace)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ECOMMPAY IT",
+        "link": "https://spb.hh.ru/vacancy/55867460?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Специалист по тестированию",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тула",
+        "currency": "руб",
+        "employer": "ООО Горизонт",
+        "link": "https://spb.hh.ru/vacancy/67449669?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист (удаленно)",
+        "salary_max": 300000,
+        "salary_min": 20000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/67245763?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию (Логистика / Поддержка и разработка баз данных ПВЗ)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/67245417?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию (Логистика / Поддержка и разработка баз данных ПВЗ)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Краснодар",
+        "currency": null,
+        "employer": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/55860994?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle QA Automation Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": null,
+        "employer": "ООО СимбирСофт",
+        "link": "https://spb.hh.ru/vacancy/67091890?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle QA Automation Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": null,
+        "employer": "TradingView",
+        "link": "https://spb.hh.ru/vacancy/66521224?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Frontend Specialist (Typescript) Team Vostok",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Площадь Александра Невского 1",
+        "currency": null,
+        "employer": "ООО Ростелеком Информационные Технологии",
+        "link": "https://spb.hh.ru/vacancy/67507277?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Специалист по автоматизированному тестированию (Умный дом)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО РТИ",
+        "link": "https://spb.hh.ru/vacancy/67285838?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Системный архитектор",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "X5 Digital",
+        "link": "https://spb.hh.ru/vacancy/67255527?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик мониторинга",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/53937108?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель группы разработки (Логистика / Маршрутные карты)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/53937107?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель группы разработки (Логистика / Маршрутные карты)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": null,
+        "employer": "Velvetech, LLC",
+        "link": "https://spb.hh.ru/vacancy/67367132?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": ".Net Developer (remote)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Испания",
+        "currency": null,
+        "employer": "Toughbyte",
+        "link": "https://spb.hh.ru/vacancy/67406260?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Remote Full-Stack Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Финляндия",
+        "currency": null,
+        "employer": "Toughbyte",
+        "link": "https://spb.hh.ru/vacancy/67345802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Газпром-медиа Развлекательное телевидение (ГПМ РТВ)",
+        "link": "https://spb.hh.ru/vacancy/67399856?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Engineer (Senior)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Опендэв",
+        "link": "https://spb.hh.ru/vacancy/67347142?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer (Java)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "СИРИУС",
+        "link": "https://spb.hh.ru/vacancy/66229938?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер-Программист (отдела функционального тестирования)",
+        "salary_max": null,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": "руб",
+        "employer": "А - Реал Консалтинг",
+        "link": "https://spb.hh.ru/vacancy/67218397?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист-разработчик",
+        "salary_max": 100000,
+        "salary_min": 70000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Верхние Котлы и еще 1 ",
+        "currency": null,
+        "employer": "Группа компаний Астра",
+        "link": "https://spb.hh.ru/vacancy/53286749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер Linux (Микросервисы)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Star-Staff",
+        "link": "https://spb.hh.ru/vacancy/67135955?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA auto специалист",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/52842047?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования, Логистика, Центральная логистика",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "Тинькофф",
+        "link": "https://spb.hh.ru/vacancy/51910966?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior QA Automation Java Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Площадь Мужества",
+        "currency": "руб",
+        "employer": "НеоБИТ",
+        "link": "https://spb.hh.ru/vacancy/55202207?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Стажер-исследователь веб-безопасности",
+        "salary_max": null,
+        "salary_min": 40000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK, Социальные сети, Одноклассники",
+        "link": "https://spb.hh.ru/vacancy/55305354?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Специалист по информационной безопасности в SOC",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "ООО Коинлоан",
+        "link": "https://spb.hh.ru/vacancy/67354150?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "System Analyst",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Pixonic",
+        "link": "https://spb.hh.ru/vacancy/67414201?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "SRE (DevOps) Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Чебоксары",
+        "currency": "руб",
+        "employer": "ICS",
+        "link": "https://spb.hh.ru/vacancy/67278887?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Junior developer",
+        "salary_max": null,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск, Заельцовская",
+        "currency": null,
+        "employer": "ООО «Предприятие «ЭЛТЕКС»",
+        "link": "https://spb.hh.ru/vacancy/54612728?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "C/C++ developer (ME)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "WelbeX",
+        "link": "https://spb.hh.ru/vacancy/66875495?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Web-программист PHP",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Самара",
+        "currency": "руб",
+        "employer": "Igor Polyakov Consulting",
+        "link": "https://spb.hh.ru/vacancy/66867227?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Fullstack Разработчик",
+        "salary_max": 150000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО НПЦ ЭЛВИС",
+        "link": "https://spb.hh.ru/vacancy/67310113?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA automation engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Зеленоград",
+        "currency": null,
+        "employer": "АО НПЦ ЭЛВИС",
+        "link": "https://spb.hh.ru/vacancy/67309918?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA automation engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": "руб",
+        "employer": "МАКСИМУС МЕДИА",
+        "link": "https://spb.hh.ru/vacancy/67221351?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Web-программист",
+        "salary_max": 75000,
+        "salary_min": 60000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Славянский бульвар",
+        "currency": null,
+        "employer": "Банк Жилищного Финансирования",
+        "link": "https://spb.hh.ru/vacancy/66624607?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик / Middle Full Stack Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Промэкспертиза",
+        "link": "https://spb.hh.ru/vacancy/67282355?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation engineer (автотестировщик)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/67351394?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior C# Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/67237061?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик Java (Дэшборд agile)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Skyeng",
+        "link": "https://spb.hh.ru/vacancy/55509062?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий системный администратор баз данных (Senior DBA)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Skyeng",
+        "link": "https://spb.hh.ru/vacancy/55509061?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий системный администратор баз данных (Senior DBA)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": "руб",
+        "employer": "А - Реал Консалтинг",
+        "link": "https://spb.hh.ru/vacancy/67218363?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист-разработчик",
+        "salary_max": 100000,
+        "salary_min": 70000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Мегаполис",
+        "link": "https://spb.hh.ru/vacancy/49943177?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Менеджер проектов/Data Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/67283985?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Lead DevOps инженер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Сбербанк-Телеком",
+        "link": "https://spb.hh.ru/vacancy/66860916?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA инженер (автоматизированное)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО АЙТИ.СПЕЙС",
+        "link": "https://spb.hh.ru/vacancy/67301712?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Automation testing engineer",
+        "salary_max": 250000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/66877884?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель группы разработки (команда Поиск)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АО ФИНАМ",
+        "link": "https://spb.hh.ru/vacancy/66219969?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий разработчик C#",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АВИТО ТЕХ: разработка",
+        "link": "https://spb.hh.ru/vacancy/67385000?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA-инженер по автоматизации в команду логистики",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66875659?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования C#, Цифровые товары, Путь совершения покупки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/67299978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Старший разработчик в архитектурную команду Практикума",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "SIAR",
+        "link": "https://spb.hh.ru/vacancy/66991891?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Web-разработчик (удаленно)",
+        "salary_max": null,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Алексеевская и еще 2 ",
+        "currency": null,
+        "employer": "ЛАНИТ- Интеграция",
+        "link": "https://spb.hh.ru/vacancy/55195343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий инженер систем мониторинга",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/67093257?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по информационной безопасности (Application Security)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/54902317?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию, Логистика / Транспортно-магистральная система",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/54902315?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию, Логистика / Транспортно-магистральная система",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Skillbox",
+        "link": "https://spb.hh.ru/vacancy/67261589?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Automation Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Тульская",
+        "currency": "руб",
+        "employer": "ООО Клик Групп",
+        "link": "https://spb.hh.ru/vacancy/67093124?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист/java-разработчик",
+        "salary_max": 200000,
+        "salary_min": 160000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Энерджи Консалтинг",
+        "link": "https://spb.hh.ru/vacancy/66233786?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Тимлид / Руководитель группы разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Воронеж",
+        "currency": null,
+        "employer": "ООО МайКедр",
+        "link": "https://spb.hh.ru/vacancy/67030049?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps specialist (Девопс)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "АВИТО ТЕХ: разработка",
+        "link": "https://spb.hh.ru/vacancy/66509059?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Team Lead команды репутационная система",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK, Карты",
+        "link": "https://spb.hh.ru/vacancy/55033967?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps-инженер (Геосервисы)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород",
+        "currency": "руб",
+        "employer": "Igor Polyakov Consulting",
+        "link": "https://spb.hh.ru/vacancy/66800514?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик C++",
+        "salary_max": null,
+        "salary_min": 153000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Балашиха",
+        "currency": "руб",
+        "employer": "ИП Чернецов Антон Константинович",
+        "link": "https://spb.hh.ru/vacancy/67092999?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Tech Lead",
+        "salary_max": 220000,
+        "salary_min": 100000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Киевская и еще 2 ",
+        "currency": null,
+        "employer": "STASIS",
+        "link": "https://spb.hh.ru/vacancy/67296382?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Deputy CTO (chief technical officer), Stasis",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "ООО Виасат Тех",
+        "link": "https://spb.hh.ru/vacancy/67071149?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Engineer",
+        "salary_max": 220000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66992889?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования, Логистика / Таймслоты и автопереносы",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66992874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования, Логистика / Таймслоты и автопереносы",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/66554563?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Системный аналитик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": "руб",
+        "employer": "Antal Russia",
+        "link": "https://spb.hh.ru/vacancy/66946529?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle/Senior Data Engineer",
+        "salary_max": 320000,
+        "salary_min": 250000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Деловой центр и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66947647?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования, Логистика / Smart routing и ЦУП",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66947639?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Логистика / Smart routing и ЦУП",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66947622?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по автоматизации тестирования Логистика / Smart routing и ЦУП",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Армения",
+        "currency": null,
+        "employer": "ООО БОСТОНДЖИН",
+        "link": "https://spb.hh.ru/vacancy/66999630?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Data Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Tradetech Development",
+        "link": "https://spb.hh.ru/vacancy/54519577?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Lead QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Яндекс",
+        "link": "https://spb.hh.ru/vacancy/55865608?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик контент-системы справочника организаций в Карты",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Т1 Консалтинг",
+        "link": "https://spb.hh.ru/vacancy/67155161?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA manual инженер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "TradingView",
+        "link": "https://spb.hh.ru/vacancy/66995217?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Go developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "БИОКАД, биотехнологическая компания",
+        "link": "https://spb.hh.ru/vacancy/67221051?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик в команду инфраструктурных решений",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Псков",
+        "currency": "руб",
+        "employer": "SoftGamings",
+        "link": "https://spb.hh.ru/vacancy/55203011?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "PHP-программист (middle)",
+        "salary_max": 300000,
+        "salary_min": 160000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/66915437?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Go-разработчик (VK Реклама)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Звенигородская",
+        "currency": null,
+        "employer": "ООО Контакт",
+        "link": "https://spb.hh.ru/vacancy/50491793?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior/Middle Devops",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Кутузовская и еще 1 ",
+        "currency": "руб",
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/67068894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Golang-разработчик в Цифровые поверхности Салют (SmartHome/IoT)",
+        "salary_max": 400000,
+        "salary_min": 200000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Волгоград",
+        "currency": "руб",
+        "employer": "IdPowers",
+        "link": "https://spb.hh.ru/vacancy/66881243?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Django Junior - стажер",
+        "salary_max": null,
+        "salary_min": 30000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Динамо",
+        "currency": null,
+        "employer": "Ростелеком - Центры обработки данных",
+        "link": "https://spb.hh.ru/vacancy/66082727?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Ведущий Специалист по тестированию (QA)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер. IT",
+        "link": "https://spb.hh.ru/vacancy/66099734?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Системный аналитик (Рекламная платформа)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Алматы",
+        "currency": null,
+        "employer": "Programming Store",
+        "link": "https://spb.hh.ru/vacancy/67251541?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java-разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": null,
+        "employer": "TradingView",
+        "link": "https://spb.hh.ru/vacancy/66991258?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Go developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Маяковская и еще 2 ",
+        "currency": null,
+        "employer": "ПАО МегаФон, IT",
+        "link": "https://spb.hh.ru/vacancy/55852965?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps инженер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Омск",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67096554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Java Developer",
+        "salary_max": 5700,
+        "salary_min": 3500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Новосибирск",
+        "currency": "EUR",
+        "employer": "Plesk",
+        "link": "https://spb.hh.ru/vacancy/67096549?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior Java Developer",
+        "salary_max": 5700,
+        "salary_min": 3500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Армения",
+        "currency": "USD",
+        "employer": "Lightspeed",
+        "link": "https://spb.hh.ru/vacancy/66558146?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOPS / SRE Engineer (POS Hospitality)",
+        "salary_max": null,
+        "salary_min": 4500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Сбер для экспертов",
+        "link": "https://spb.hh.ru/vacancy/54782479?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик ПО на Golang (SberInfra)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Пенза",
+        "currency": null,
+        "employer": "ООО Смартвэй",
+        "link": "https://spb.hh.ru/vacancy/66940555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Специалист по работе с базами данных",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ПАО «МТС», IT",
+        "link": "https://spb.hh.ru/vacancy/66936821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Тестировщик (Automation QA engineer)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Беговая",
+        "currency": null,
+        "employer": "ООО \"Сибинтек-Софт\"",
+        "link": "https://spb.hh.ru/vacancy/66943948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Архитектор/Fullstack разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Василеостровская и еще 1 ",
+        "currency": null,
+        "employer": "Nexign (АО Нэксайн)",
+        "link": "https://spb.hh.ru/vacancy/55563057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle/Senior C++ developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "LIFE PAY",
+        "link": "https://spb.hh.ru/vacancy/66826322?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA-инженер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/67084487?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "MLEngineer в команду Поиска (ВКонтакте)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Выставочная и еще 2 ",
+        "currency": null,
+        "employer": "Ozon Информационные технологии",
+        "link": "https://spb.hh.ru/vacancy/66835195?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер по тестированию, ERP и учетные системы, СЭД",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://spb.hh.ru/vacancy/54948798?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-Stack Разработчик (middle/senior level)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://spb.hh.ru/vacancy/54948799?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-Stack Разработчик (middle/senior level)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Казань",
+        "currency": null,
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://spb.hh.ru/vacancy/54948801?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-Stack Разработчик (middle/senior level)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Самара",
+        "currency": null,
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://spb.hh.ru/vacancy/54948802?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-Stack Разработчик (middle/senior level)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Сербия",
+        "currency": "USD",
+        "employer": "Semrush",
+        "link": "https://spb.hh.ru/vacancy/67221069?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps Engineer (Black Team)",
+        "salary_max": null,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Кипр",
+        "currency": "USD",
+        "employer": "Semrush",
+        "link": "https://spb.hh.ru/vacancy/67221063?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps Engineer (Black Team)",
+        "salary_max": null,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Армения",
+        "currency": "USD",
+        "employer": "Semrush",
+        "link": "https://spb.hh.ru/vacancy/67221054?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps Engineer (Black Team)",
+        "salary_max": null,
+        "salary_min": 3000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "ООО Амига",
+        "link": "https://spb.hh.ru/vacancy/67049027?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Project менеджер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Аэропорт",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/66915939?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "С++ разработчик (VK Реклама)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": "руб",
+        "employer": "Southbridge",
+        "link": "https://spb.hh.ru/vacancy/66987953?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер DevOps",
+        "salary_max": 300000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Сочи",
+        "currency": "руб",
+        "employer": "Southbridge",
+        "link": "https://spb.hh.ru/vacancy/66987954?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Инженер DevOps",
+        "salary_max": 300000,
+        "salary_min": 150000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Hunt For You",
+        "link": "https://spb.hh.ru/vacancy/52545732?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior C++ Developer (Montenegro/Luxemburg relocation)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Пермь",
+        "currency": null,
+        "employer": "Где мои дети",
+        "link": "https://spb.hh.ru/vacancy/66190970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "DevOps engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Парк культуры и еще 1 ",
+        "currency": null,
+        "employer": "Международная медиагруппа Россия сегодня (МИА Россия сегодня)",
+        "link": "https://spb.hh.ru/vacancy/66936478?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "PHP-разработчик",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Владимир",
+        "currency": null,
+        "employer": "ФГБУ Федеральный центр охраны здоровья животных",
+        "link": "https://spb.hh.ru/vacancy/54823804?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Разработчик BI, DWH",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Quadcode",
+        "link": "https://spb.hh.ru/vacancy/66821428?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Middle Golang Developer (Antifraud) (на Кипр)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург, Гостиный двор и еще 1 ",
+        "currency": null,
+        "employer": "VK",
+        "link": "https://spb.hh.ru/vacancy/50605612?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Data scientist / Machine learning engineer (команда CoreML ВКонтакте)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Калининград",
+        "currency": null,
+        "employer": "KODE",
+        "link": "https://spb.hh.ru/vacancy/55048513?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Quality Assurance Engineer / QA / Middle",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва, Октябрьское поле и еще 1 ",
+        "currency": null,
+        "employer": "Мегаполис ИТ",
+        "link": "https://spb.hh.ru/vacancy/52063953?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Краснодар",
+        "currency": null,
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://spb.hh.ru/vacancy/54948800?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-Stack Разработчик (middle/senior level)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Чебоксары",
+        "currency": null,
+        "employer": "ООО ИСЕРВ",
+        "link": "https://spb.hh.ru/vacancy/55869501?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Front-end разработчик (React)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Уфа",
+        "currency": null,
+        "employer": "Directum",
+        "link": "https://spb.hh.ru/vacancy/66831737?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Frontend разработчик/Fullstack",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "CUSTIS",
+        "link": "https://spb.hh.ru/vacancy/66837069?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Senior DevOps инженер",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Воронеж",
+        "currency": "руб",
+        "employer": "SoftGamings",
+        "link": "https://spb.hh.ru/vacancy/67083925?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "PHP-программист (middle/senior)",
+        "salary_max": 300000,
+        "salary_min": 160000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "EXNESS Global Limited",
+        "link": "https://spb.hh.ru/vacancy/66788988?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "QA Engineer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "currency": null,
+        "employer": "Playrix",
+        "link": "https://spb.hh.ru/vacancy/50762152?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "IT Team Lead / Руководитель группы разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Москва",
+        "currency": null,
+        "employer": "Playrix",
+        "link": "https://spb.hh.ru/vacancy/50762151?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "IT Team Lead / Руководитель группы разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нижний Новгород",
+        "currency": null,
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://spb.hh.ru/vacancy/54948803?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-Stack Разработчик (middle/senior level)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ижевск",
+        "currency": "руб",
+        "employer": "Programming Store",
+        "link": "https://spb.hh.ru/vacancy/55589117?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Java-разработчик",
+        "salary_max": 200000,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Нур-Султан",
+        "currency": "KZT",
+        "employer": "ТОО КМГ Инжиниринг",
+        "link": "https://spb.hh.ru/vacancy/67223347?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Backend Developer Senior",
+        "salary_max": null,
+        "salary_min": 800000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ташкент",
+        "currency": null,
+        "employer": "Wash Inn Technologies",
+        "link": "https://spb.hh.ru/vacancy/67154063?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Back-end Developer (Python)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск, Московская",
+        "currency": null,
+        "employer": "Фингерз Медиа",
+        "link": "https://spb.hh.ru/vacancy/66914906?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Back-end Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Гродно",
+        "currency": null,
+        "employer": "СкилСофт",
+        "link": "https://spb.hh.ru/vacancy/66938724?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Python Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": "USD",
+        "employer": "ООО Центория Софт",
+        "link": "https://spb.hh.ru/vacancy/66115989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Junior / Mid DevOps / Backend software engineer",
+        "salary_max": 3000,
+        "salary_min": 500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Караганда",
+        "currency": null,
+        "employer": "ТОО IT Analytics",
+        "link": "https://spb.hh.ru/vacancy/66784646?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист Python",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "ЧАКБ «ДАВР БАНК» ",
+        "link": "https://spb.hh.ru/vacancy/67600128?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Руководитель отдела разработки",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Шымкент",
+        "currency": null,
+        "employer": "ТОО KaspiNet",
+        "link": "https://spb.hh.ru/vacancy/67434934?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Программист стажер, FullStack",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": null,
+        "employer": "ООО ЭмВиПи коннект",
+        "link": "https://spb.hh.ru/vacancy/67357833?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Преподаватель-ментор IT (теория и практика)",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск, Уручье",
+        "currency": "бел",
+        "employer": "ООО ИТГарантСофт",
+        "link": "https://spb.hh.ru/vacancy/53139843?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "1С-Битрикс разработчик",
+        "salary_max": null,
+        "salary_min": 2000,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск, Первомайская",
+        "currency": null,
+        "employer": "ООО Файердом Бел",
+        "link": "https://spb.hh.ru/vacancy/66983399?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Full-stack Node.js Developer",
+        "salary_max": null,
+        "salary_min": null,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Тбилиси",
+        "currency": "USD",
+        "employer": "ООО Eremenko and Polomani LLC",
+        "link": "https://spb.hh.ru/vacancy/66869615?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "React Developer",
+        "salary_max": 3000,
+        "salary_min": 2500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Минск",
+        "currency": "USD",
+        "employer": "ООО Контурные карты",
+        "link": "https://spb.hh.ru/vacancy/55399523?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Front End Engineer (Maps, React, TypeScript) - Disaster Management",
+        "salary_max": 4000,
+        "salary_min": 2500,
+        "service": "hh.ru"
+    },
+    {
+        "city": "Ташкент",
+        "currency": "USD",
+        "employer": "ООО Eurosoft",
+        "link": "https://spb.hh.ru/vacancy/66780984?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python%20backend",
+        "name": "Технический лидер (инженер-программист)",
+        "salary_max": 2000,
+        "salary_min": 1500,
+        "service": "hh.ru"
+    }
+]
